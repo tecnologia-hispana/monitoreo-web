@@ -5,12 +5,19 @@ repo: monitoreo-web # The name of this repository
 sites:
   - name: Hispana
     url: https://www.hispana.com.ve
-  - name: Hispana Online
-    url: http://online.hispana.com.ve/
-    port: 8282
   - name: Portal Intermediaros
     url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login
     port: 8282
+    - name: Cotizador Autos
+    url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-auto/home
+    port: 8282- name: Portal Intermediaros
+    - name: Cotizador Salud
+    url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-salud/home
+    port: 8282
+     - name: Portal del Asegurado
+    url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login
+    port: 8282
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
