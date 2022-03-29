@@ -10,7 +10,7 @@ sites:
     port: 8282
     - name: Cotizador Autos
     url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-auto/home
-    port: 8282- name: Portal Intermediaros
+    port: 8282
     - name: Cotizador Salud
     url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-salud/home
     port: 8282
