@@ -5,8 +5,9 @@ repo: monitoreo-web # The name of this repository
 sites:
   - name: Hispana
     url: https://www.hispana.com.ve
-  - name: Google
-    url: https://www.google.com
+  - name: Hispana Online
+    url: http://online.hispana.com.ve/
+    port: 8282
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
