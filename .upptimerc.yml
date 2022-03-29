@@ -8,12 +8,9 @@ sites:
   - name: Hispana Online
     url: http://online.hispana.com.ve/
     port: 8282
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Portal Intermediaros
+    url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login
+    port: 8282
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
