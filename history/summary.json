@@ -22,7 +22,7 @@
     "url": "http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login",
     "icon": "https://favicons.githubusercontent.com/online.hispana.com.ve",
     "slug": "portal-intermediaros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 451,
     "timeMonth": 524,
     "timeYear": 524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "Cotizador Autos",
