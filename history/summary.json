@@ -4,19 +4,19 @@
     "url": "https://www.hispana.com.ve",
     "icon": "https://favicons.githubusercontent.com/www.hispana.com.ve",
     "slug": "hispana-com-ve",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2455,
-    "timeDay": 1926,
-    "timeWeek": 2531,
-    "timeMonth": 2455,
-    "timeYear": 2455,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 3472,
+    "timeDay": 15920,
+    "timeWeek": 5954,
+    "timeMonth": 3472,
+    "timeYear": 3472,
     "dailyMinutesDown": {
-      "2022-04-22": 0
+      "2022-04-22": 70
     }
   },
   {
