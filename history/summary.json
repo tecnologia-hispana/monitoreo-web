@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.hispana.com.ve",
     "slug": "hispana-com-ve",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "92.75%",
-    "uptimeYear": "96.86%",
+    "uptimeYear": "96.88%",
     "time": 3129,
     "timeDay": 2106,
     "timeWeek": 1610,
@@ -34,9 +34,9 @@
     "url": "http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login",
     "icon": "https://favicons.githubusercontent.com/online.hispana.com.ve",
     "slug": "portal-intermediaros",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
@@ -46,6 +46,7 @@
     "timeMonth": 462,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2022-06-20": 0,
       "2022-05-25": 27,
       "2022-04-09": 96,
       "2022-04-06": 103
@@ -56,9 +57,9 @@
     "url": "http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-auto/home",
     "icon": "https://favicons.githubusercontent.com/online.hispana.com.ve",
     "slug": "cotizador-autos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -68,6 +69,7 @@
     "timeMonth": 188,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2022-06-20": 0,
       "2022-04-09": 95,
       "2022-04-06": 36
     }
@@ -77,7 +79,7 @@
     "url": "http://online.hispana.com.ve:8282/ords/ws_bleico/r/cotizador-publico-de-salud/home",
     "icon": "https://favicons.githubusercontent.com/online.hispana.com.ve",
     "slug": "cotizador-salud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,6 +91,7 @@
     "timeMonth": 187,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2022-06-20": 0,
       "2022-04-09": 94,
       "2022-04-06": 36
     }
