@@ -1,7 +1,7 @@
 url: http://online.hispana.com.ve:8282/ords/ws_bleico/r/intermediarios/login
-status: down
-code: 503
-responseTime: 10207
-lastUpdated: 2022-07-09T02:15:16.563Z
+status: up
+code: 200
+responseTime: 1242
+lastUpdated: 2022-07-09T17:45:08.281Z
 startTime: Tue Mar 29 2022 19:36:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
