@@ -4,7 +4,7 @@
     "url": "https://www.hispana.com.ve",
     "icon": "https://favicons.githubusercontent.com/www.hispana.com.ve",
     "slug": "hispana-com-ve",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2184,
     "timeYear": 2707,
     "dailyMinutesDown": {
+      "2022-08-10": 0,
       "2022-07-25": 70,
       "2022-07-20": 62,
       "2022-07-19": 85,
