@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hispana.com.ve.ico",
     "slug": "hispana-com-ve",
     "status": "down",
-    "uptime": "44.35%",
+    "uptime": "44.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3691,
+    "time": 3729,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-30": 64,
+      "2024-12-01": 76,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -379,8 +380,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.hispana.com.ve.ico",
     "slug": "portal-intermediaros",
     "status": "down",
-    "uptime": "30.80%",
+    "uptime": "30.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 304,
-    "timeDay": 262,
+    "timeDay": 207,
     "timeWeek": 289,
-    "timeMonth": 273,
+    "timeMonth": 274,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2024-11-30": 64,
+      "2024-12-01": 76,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -763,8 +764,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.hispana.com.ve.ico",
     "slug": "cotizador-autos",
     "status": "down",
-    "uptime": "30.81%",
+    "uptime": "30.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 203,
-    "timeDay": 236,
-    "timeWeek": 207,
-    "timeMonth": 200,
+    "timeDay": 179,
+    "timeWeek": 206,
+    "timeMonth": 201,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-11-30": 64,
+      "2024-12-01": 77,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1147,8 +1148,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.hispana.com.ve.ico",
     "slug": "cotizador-salud",
     "status": "down",
-    "uptime": "30.81%",
+    "uptime": "30.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 204,
-    "timeDay": 236,
+    "timeDay": 182,
     "timeWeek": 206,
-    "timeMonth": 201,
+    "timeMonth": 202,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-11-30": 64,
+      "2024-12-01": 77,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1531,8 +1532,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   }
 ]
